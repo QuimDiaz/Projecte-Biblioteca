@@ -1,0 +1,38 @@
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\Projecte Biblioteca.exe
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\Projecte Biblioteca.deps.json
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\Projecte Biblioteca.runtimeconfig.json
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\Projecte Biblioteca.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\Projecte Biblioteca.pdb
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.csproj.AssemblyReference.cache
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\vista\login.g.cs
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca_MarkupCompile.cache
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca_MarkupCompile.lref
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\vista\login.baml
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.g.resources
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.AssemblyInfoInputs.cache
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.AssemblyInfo.cs
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.sourcelink.json
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte.158E20EE.Up2Date
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\refint\Projecte Biblioteca.dll
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.pdb
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\Projecte Biblioteca.genruntimeconfig.cache
+C:\Users\quimd\Desktop\Info_DAW1\Git_works\Actual\Biblioteca\Projecte Biblioteca\Projecte Biblioteca\obj\Debug\net8.0-windows\ref\Projecte Biblioteca.dll
