@@ -10,6 +10,7 @@
         <Label Content="LOGIN" HorizontalAlignment="Center" Height="60" Margin="0,77,0,0" VerticalAlignment="Top" Width="157" FontSize="36"/>
         <PasswordBox HorizontalAlignment="Left" Height="35" Margin="227,230,0,0" VerticalAlignment="Top" Width="313"/>
         <TextBox HorizontalAlignment="Left" Height="36" Margin="227,181,0,0" TextWrapping="Wrap" Text="USER" VerticalAlignment="Top" Width="313"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="38" Margin="344,296,0,0" VerticalAlignment="Top" Width="78"/>
 
     </Grid>
 </Window>
