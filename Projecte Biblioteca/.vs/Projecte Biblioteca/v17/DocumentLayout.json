@@ -3,16 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|c:\\users\\quimd\\desktop\\info_daw1\\git_works\\actual\\biblioteca\\projecte biblioteca\\projecte biblioteca\\vista\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|solutionrelative:projecte biblioteca\\vista\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|c:\\users\\quimd\\desktop\\info_daw1\\git_works\\actual\\biblioteca\\projecte biblioteca\\projecte biblioteca\\vista\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|solutionrelative:projecte biblioteca\\vista\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|c:\\users\\quimd\\desktop\\info_daw1\\git_works\\actual\\biblioteca\\projecte biblioteca\\projecte biblioteca\\dades\\connexio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\projecte biblioteca\\dades\\connexio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|solutionrelative:projecte biblioteca\\dades\\connexio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|c:\\users\\quimd\\desktop\\info_daw1\\git_works\\actual\\biblioteca\\projecte biblioteca\\projecte biblioteca\\vista\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|solutionrelative:projecte biblioteca\\vista\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\projecte biblioteca\\vista\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|solutionrelative:projecte biblioteca\\vista\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|c:\\users\\quimd\\desktop\\info_daw1\\git_works\\actual\\biblioteca\\projecte biblioteca\\projecte biblioteca\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6C7BB31-154E-4C7F-AC01-D12162C3F7F5}|Projecte Biblioteca\\Projecte Biblioteca.csproj|solutionrelative:projecte biblioteca\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quimd\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +37,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Connexio.cs",
-              "DocumentMoniker": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\dades\\Connexio.cs",
-              "RelativeDocumentMoniker": "Projecte Biblioteca\\dades\\Connexio.cs",
-              "ToolTip": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\dades\\Connexio.cs",
-              "RelativeToolTip": "Projecte Biblioteca\\dades\\Connexio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\quimd\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\quimd\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Solo lectura]",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T10:11:55.48Z",
+              "WhenOpened": "2024-05-24T06:44:09.201Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\App.xaml",
+              "RelativeDocumentMoniker": "Projecte Biblioteca\\App.xaml",
+              "ToolTip": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\App.xaml",
+              "RelativeToolTip": "Projecte Biblioteca\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T06:38:11.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "login.xaml",
               "DocumentMoniker": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\vista\\login.xaml",
               "RelativeDocumentMoniker": "Projecte Biblioteca\\vista\\login.xaml",
@@ -55,13 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Connexio.cs",
+              "DocumentMoniker": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\dades\\Connexio.cs",
+              "RelativeDocumentMoniker": "Projecte Biblioteca\\dades\\Connexio.cs",
+              "ToolTip": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\dades\\Connexio.cs",
+              "RelativeToolTip": "Projecte Biblioteca\\dades\\Connexio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:11:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "login.xaml.cs",
               "DocumentMoniker": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\vista\\login.xaml.cs",
               "RelativeDocumentMoniker": "Projecte Biblioteca\\vista\\login.xaml.cs",
               "ToolTip": "C:\\Users\\quimd\\Desktop\\Info_DAW1\\Git_works\\Actual\\Biblioteca\\Projecte Biblioteca\\Projecte Biblioteca\\vista\\login.xaml.cs",
               "RelativeToolTip": "Projecte Biblioteca\\vista\\login.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T08:55:01.621Z",
               "EditorCaption": ""

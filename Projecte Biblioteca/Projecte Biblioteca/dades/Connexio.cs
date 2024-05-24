@@ -8,6 +8,6 @@ namespace Projecte_Biblioteca.dades
 {
     internal class Connexio
     {
-
+        
     }
 }

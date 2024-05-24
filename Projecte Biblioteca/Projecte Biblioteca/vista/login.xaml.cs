@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+
 namespace Projecte_Biblioteca.vista
 {
     /// <summary>
@@ -22,6 +23,11 @@ namespace Projecte_Biblioteca.vista
         public login()
         {
             InitializeComponent();
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }
