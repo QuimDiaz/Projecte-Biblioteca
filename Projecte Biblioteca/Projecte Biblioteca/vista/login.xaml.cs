@@ -24,5 +24,10 @@ namespace Projecte_Biblioteca.vista
         {
             InitializeComponent();
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
