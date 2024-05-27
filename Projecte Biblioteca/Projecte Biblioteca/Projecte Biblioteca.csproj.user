@@ -7,7 +7,19 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="vista\AdminPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="vista\Library.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="vista\login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="vista\UserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="vista\WorkerPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -15,7 +27,19 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="vista\AdminPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="vista\Library.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="vista\login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="vista\UserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="vista\WorkerPage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

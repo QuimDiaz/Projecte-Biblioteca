@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Projecte_Biblioteca.vista"
         mc:Ignorable="d"
-        Title="login" Height="450" Width="800">
+        Title="login" Height="411" Width="656">
     <Grid>
-        <Label Content="LOGIN" HorizontalAlignment="Center" Height="60" Margin="0,77,0,0" VerticalAlignment="Top" Width="120" FontSize="36"/>
-        <PasswordBox HorizontalAlignment="Center" Height="35" Margin="0,234,0,0" VerticalAlignment="Top" Width="312"/>
-        <TextBox HorizontalAlignment="Center" Height="36" Margin="0,181,0,0" TextWrapping="Wrap" Text="USER" VerticalAlignment="Top" Width="312" TextChanged="TextBox_TextChanged"/>
-        <Button Content="login" HorizontalAlignment="Center" Height="38" Margin="0,297,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="LOGIN" HorizontalAlignment="Center" Height="74" Margin="0,64,0,0" VerticalAlignment="Top" Width="148" FontSize="36"/>
+        <PasswordBox HorizontalAlignment="Center" Height="43" Margin="0,232,0,0" VerticalAlignment="Top" Width="384"/>
+        <TextBox HorizontalAlignment="Center" Height="45" Margin="0,166,0,0" TextWrapping="Wrap" Text="USER" VerticalAlignment="Top" Width="384" TextChanged="TextBox_TextChanged"/>
+        <Button Content="login" HorizontalAlignment="Center" Height="47" Margin="0,310,0,0" VerticalAlignment="Top" Width="96"/>
 
     </Grid>
 </Window>
