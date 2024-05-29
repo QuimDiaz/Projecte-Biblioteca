@@ -8,10 +8,9 @@ using Projecte_Biblioteca.dades;
 using Projecte_Biblioteca.negoci;
 using Projecte_Biblioteca;
 
-namespace Projecte_Biblioteca.dades
+namespace Projecte_Biblioteca.negoci
 {
-    internal class Connexio
+    class conectarUsuari
     {
-        
     }
 }

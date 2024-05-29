@@ -11,6 +11,10 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using Projecte_Biblioteca.vista;
+using Projecte_Biblioteca.dades;
+using Projecte_Biblioteca.negoci;
+using Projecte_Biblioteca;
 
 namespace Projecte_Biblioteca.vista
 {

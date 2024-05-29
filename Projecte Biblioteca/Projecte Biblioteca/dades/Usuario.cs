@@ -10,8 +10,7 @@ using Projecte_Biblioteca;
 
 namespace Projecte_Biblioteca.dades
 {
-    internal class Connexio
+    class Usuario
     {
-        
     }
 }

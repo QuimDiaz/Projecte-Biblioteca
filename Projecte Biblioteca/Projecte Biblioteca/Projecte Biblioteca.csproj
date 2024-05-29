@@ -10,11 +10,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="pilaLIBROS.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.4.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="negoci\" />
+    <Resource Include="pilaLIBROS.jpg" />
   </ItemGroup>
 
 </Project>

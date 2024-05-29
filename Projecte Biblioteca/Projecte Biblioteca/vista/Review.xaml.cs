@@ -19,18 +19,13 @@ using Projecte_Biblioteca;
 namespace Projecte_Biblioteca.vista
 {
     /// <summary>
-    /// Lógica de interacción para login.xaml
+    /// Lógica de interacción para Review.xaml
     /// </summary>
-    public partial class login : Window
+    public partial class Review : Window
     {
-        public login()
+        public Review()
         {
             InitializeComponent();
-        }
-
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
         }
     }
 }

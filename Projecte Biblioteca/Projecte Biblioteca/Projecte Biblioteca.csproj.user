@@ -16,6 +16,9 @@
     <Compile Update="vista\login.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="vista\Review.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="vista\UserPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -34,6 +37,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="vista\login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="vista\Review.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="vista\UserPage.xaml">
